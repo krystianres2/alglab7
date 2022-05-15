@@ -1,0 +1,6 @@
+﻿  zad3lab7alg.cpp
+C:\Users\kryst\source\repos\zad3lab7alg\zad3lab7alg\zad3lab7alg.cpp(16,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kryst\source\repos\zad3lab7alg\zad3lab7alg\zad3lab7alg.cpp(16,40): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kryst\source\repos\zad3lab7alg\zad3lab7alg\zad3lab7alg.cpp(26,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kryst\source\repos\zad3lab7alg\zad3lab7alg\zad3lab7alg.cpp(30,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  zad3lab7alg.vcxproj -> C:\Users\kryst\source\repos\zad3lab7alg\Debug\zad3lab7alg.exe
